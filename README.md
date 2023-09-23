@@ -2,6 +2,8 @@
 
 ### [Live Site](https://welcome-to-chat-application.netlify.app/)
 
+![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
+
 
 
 Setup:
